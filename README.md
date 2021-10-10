@@ -8,7 +8,7 @@ All you need to use it is to install Python 3 on a computer or on a phone, then 
 https://youtu.be/8HVmXZNWkHw
 
 # follow me
-Blog : https://thedigitalagee.blogspot.com/
+Blog : https://www.krsan4learn.com
 Youtube : https://www.youtube.com/Krsan4Learn
 Youtube 2 : https://www.youtube.com/channel/UCFT_jUlBm39QrZNe5-jcY0g
 telegram : t.me/OmarMohmad
